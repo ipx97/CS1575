@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExtraProject1", "ExtraProject1\ExtraProject1.vcxproj", "{3F9E211E-FBA6-4826-889F-385E908CA7A2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExtraProject2", "ExtraProject2\ExtraProject2.vcxproj", "{EB945BD6-76BB-402C-9BB2-4D344D9DECC3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ipiskulic.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ExtraProject1\\ExtraProject1.vcxproj
+		SccProjectName1 = ExtraProject1
+		SccLocalPath1 = ExtraProject1
+		SccProjectUniqueName2 = ExtraProject2\\ExtraProject2.vcxproj
+		SccProjectName2 = ExtraProject2
+		SccLocalPath2 = ExtraProject2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9E211E-FBA6-4826-889F-385E908CA7A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F9E211E-FBA6-4826-889F-385E908CA7A2}.Debug|Win32.Build.0 = Debug|Win32
+		{3F9E211E-FBA6-4826-889F-385E908CA7A2}.Release|Win32.ActiveCfg = Release|Win32
+		{3F9E211E-FBA6-4826-889F-385E908CA7A2}.Release|Win32.Build.0 = Release|Win32
+		{EB945BD6-76BB-402C-9BB2-4D344D9DECC3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB945BD6-76BB-402C-9BB2-4D344D9DECC3}.Debug|Win32.Build.0 = Debug|Win32
+		{EB945BD6-76BB-402C-9BB2-4D344D9DECC3}.Release|Win32.ActiveCfg = Release|Win32
+		{EB945BD6-76BB-402C-9BB2-4D344D9DECC3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
